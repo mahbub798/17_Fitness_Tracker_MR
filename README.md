@@ -2,7 +2,7 @@
 
 ## Link to deployed application
 
-https://mahbub798.github.io/17_Fitness-Tracker_MR/
+https://fitnessapp9.herokuapp.com/
 
 ## Description 
 
